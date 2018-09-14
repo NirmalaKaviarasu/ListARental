@@ -1,0 +1,12 @@
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\HorseNunit.exe.config
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\HorseNunit.exe
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\HorseNunit.pdb
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\obj\Debug\HorseNunit.csprojAssemblyReference.cache
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\obj\Debug\HorseNunit.csproj.CoreCompileInputs.cache
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\obj\Debug\HorseNunit.exe
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\obj\Debug\HorseNunit.pdb
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\WebDriver.dll
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\WebDriver.Support.dll
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\WebDriver.xml
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\bin\Debug\WebDriver.Support.xml
+c:\users\mallik\source\repos\HorseNunit\HorseNunit\obj\Debug\HorseNunit.csproj.CopyComplete

@@ -1,0 +1,15 @@
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\seleniumtest1.exe.config
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\seleniumtest1.exe
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\seleniumtest1.pdb
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\WebDriver.dll
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\WebDriver.Support.dll
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\WebDriver.xml
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\WebDriver.Support.xml
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\obj\Debug\seleniumtest1.csprojAssemblyReference.cache
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\obj\Debug\seleniumtest1.csproj.CoreCompileInputs.cache
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\obj\Debug\seleniumtest1.csproj.CopyComplete
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\obj\Debug\seleniumtest1.exe
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\obj\Debug\seleniumtest1.pdb
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\nunit.framework.dll
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\nunit.framework.pdb
+c:\users\mallik\source\repos\seleniumtest1\seleniumtest1\bin\Debug\nunit.framework.xml

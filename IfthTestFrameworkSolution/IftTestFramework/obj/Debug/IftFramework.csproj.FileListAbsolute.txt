@@ -1,0 +1,5 @@
+c:\users\mallik\source\repos\IfthTestFrameworkSolution\IftTestFramework\bin\Debug\IftTestFramework.dll
+c:\users\mallik\source\repos\IfthTestFrameworkSolution\IftTestFramework\bin\Debug\IftTestFramework.pdb
+c:\users\mallik\source\repos\IfthTestFrameworkSolution\IftTestFramework\obj\Debug\IftFramework.csproj.CoreCompileInputs.cache
+c:\users\mallik\source\repos\IfthTestFrameworkSolution\IftTestFramework\obj\Debug\IftTestFramework.dll
+c:\users\mallik\source\repos\IfthTestFrameworkSolution\IftTestFramework\obj\Debug\IftTestFramework.pdb

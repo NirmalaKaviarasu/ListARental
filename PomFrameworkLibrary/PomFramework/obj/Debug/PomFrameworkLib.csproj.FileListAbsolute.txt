@@ -1,0 +1,10 @@
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\PomFramework.dll
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\PomFramework.pdb
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\WebDriver.dll
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\WebDriver.xml
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\obj\Debug\PomFrameworkLib.csproj.CoreCompileInputs.cache
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\obj\Debug\PomFrameworkLib.csproj.CopyComplete
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\obj\Debug\PomFramework.dll
+C:\Users\Mallik\source\repos\PomFrameworkLibrary\PomFramework\obj\Debug\PomFramework.pdb

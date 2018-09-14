@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IftFramework", "IftTestFramework\IftFramework.csproj", "{D5D7210A-3A91-4432-93AC-EED13AD6C60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFtkTestClass", "IFtkTestClass\IFtkTestClass.csproj", "{0CDE1425-879D-4FB5-A199-FC991C1052D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D7210A-3A91-4432-93AC-EED13AD6C60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D7210A-3A91-4432-93AC-EED13AD6C60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D7210A-3A91-4432-93AC-EED13AD6C60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D7210A-3A91-4432-93AC-EED13AD6C60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDE1425-879D-4FB5-A199-FC991C1052D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDE1425-879D-4FB5-A199-FC991C1052D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDE1425-879D-4FB5-A199-FC991C1052D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDE1425-879D-4FB5-A199-FC991C1052D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE6E14A-308D-4200-B17C-435FE8716795}
+	EndGlobalSection
+EndGlobal
